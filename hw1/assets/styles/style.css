@@ -1,0 +1,10 @@
+.menu {
+    background-color: beige;
+    font-weight: bold;
+}
+.tovar {
+    width: 300px;
+    background-color: bisque;
+    display: inline-block;
+    vertical-align: top;
+}
